@@ -4,12 +4,11 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 
 - What is the background of your project?
 
