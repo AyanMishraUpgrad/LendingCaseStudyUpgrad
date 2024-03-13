@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+Here we implement the study of EDA on the loan dataset to find out about risky investments.
 
 
 ## Table of Contents
